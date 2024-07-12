@@ -1,2 +1,7 @@
 # Draggable
-Create a React app that has a single reusable component called Draggable.
+
+npm create vite@latest
+cd foldername
+npm install
+npm install react-draggable
+npm run dev
